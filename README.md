@@ -15,3 +15,5 @@
 7. run compareNewhybrids.pl to get output.
 
 8. Run compareMaps.pl to find simulated individuals that were misclassified.
+
+9. Alternatively, run confusionMatrix.pl on simulated data instead of compareMaps.pl
